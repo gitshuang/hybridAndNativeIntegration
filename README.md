@@ -1,0 +1,2 @@
+# hybridAndNativeIntegration
+混合开发代码，和原生开发代码整合到一个apk中
